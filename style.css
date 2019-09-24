@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+input{
+    margin: 10px 0 10px 0;
+}
+
+.block_for_couner{
+    display: block;
+    width: 150px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.counter{
+    font-size: 35px;
+    line-height: 35px;
+}
